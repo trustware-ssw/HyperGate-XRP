@@ -1,3 +1,5 @@
+> ⚠️ **ARCHIVED**: This repository is archived and no longer maintained. The code is provided as-is for historical reference. No further updates, bug fixes, or support will be provided.
+
 # Turborepo starter
 
 This is an official starter Turborepo.

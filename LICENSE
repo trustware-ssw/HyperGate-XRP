@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024-present Pr1mer Tech
+Copyright (c) 2026 Trustware
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,13 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Third-Party Licenses
-
-This software includes code from Wagmi and ConnectKit, which are respectively
-licensed under the MIT License and SD 2-Clause License.
-
-The full text of the Wagmi license can be found at:
-https://github.com/wagmi-dev/wagmi/blob/main/LICENSE
-The full text of the ConnectKit license can be found at:
-https://github.com/family/connectkit/blob/main/LICENSE
